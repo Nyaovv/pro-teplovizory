@@ -1,0 +1,270 @@
+{
+ "pulsar-thermion-3-lrf-xt60": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-3/lrf-xt60/",
+  "file": "pulsar-thermion-3-lrf-xt60.webp",
+  "cut": "pulsar-thermion-3-lrf-xt60-cut.webp",
+  "w": 650,
+  "h": 418,
+  "note": "source only 650px wide (upscaled)"
+ },
+ "pulsar-thermion-2-lrf-xp50-pro": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/lrf-xp50-pro/",
+  "file": "pulsar-thermion-2-lrf-xp50-pro.webp",
+  "cut": "pulsar-thermion-2-lrf-xp50-pro-cut.webp",
+  "w": 1000,
+  "h": 500,
+  "note": ""
+ },
+ "pulsar-merger-lrf-xp50": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-binoculars/pulsar-merger-lrf-2/merger-lrf-xp50/",
+  "file": "pulsar-merger-lrf-xp50.webp",
+  "cut": "pulsar-merger-lrf-xp50-cut.webp",
+  "w": 700,
+  "h": 380,
+  "note": "source only 700px wide (upscaled)"
+ },
+ "pulsar-thermion-2-lrf-xg60": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/xg-60/",
+  "file": "pulsar-thermion-2-lrf-xg60.webp",
+  "cut": "pulsar-thermion-2-lrf-xg60-cut.webp",
+  "w": 1000,
+  "h": 500,
+  "note": ""
+ },
+ "pulsar-talion-xq35-pro": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-riflescopes/pulsar-talion/talion-xq35-pro/",
+  "file": "pulsar-talion-xq35-pro.webp",
+  "cut": "pulsar-talion-xq35-pro-cut.webp",
+  "w": 1000,
+  "h": 500,
+  "note": ""
+ },
+ "pulsar-trail-3-lrf-xq50": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-riflescopes/trail-3-lrf/xq50/",
+  "file": "pulsar-trail-3-lrf-xq50.webp",
+  "cut": "pulsar-trail-3-lrf-xq50-cut.webp",
+  "w": 1000,
+  "h": 500,
+  "note": ""
+ },
+ "nocpix-ace-h50r": {
+  "src": "https://www.nocpix.com/product-ace/",
+  "file": "nocpix-ace-h50r.webp",
+  "cut": "nocpix-ace-h50r-cut.webp",
+  "w": 800,
+  "h": 530,
+  "note": ""
+ },
+ "nocpix-ace-s60r": {
+  "src": "https://www.nocpix.com/product-ace/",
+  "file": "nocpix-ace-s60r.webp",
+  "cut": "nocpix-ace-s60r-cut.webp",
+  "w": 800,
+  "h": 530,
+  "note": ""
+ },
+ "nocpix-ace-2-h50r": {
+  "src": "https://www.nocpix.com/ace2-series/",
+  "file": "nocpix-ace-2-h50r.webp",
+  "cut": "nocpix-ace-2-h50r-cut.webp",
+  "w": 800,
+  "h": 500,
+  "note": ""
+ },
+ "hikmicro-stellar-sx60ls-3-0": {
+  "src": "https://www.hikmicrotech.com/en/outdoor-products/stellar-3-0-thermal-scope/",
+  "file": "hikmicro-stellar-sx60ls-3-0.webp",
+  "cut": "hikmicro-stellar-sx60ls-3-0-cut.webp",
+  "w": 800,
+  "h": 514,
+  "note": ""
+ },
+ "guide-ts432l": {
+  "src": "https://ts2.store/en/18802-guide-ts432l-thermal-imaging-scope.html",
+  "file": "guide-ts432l.webp",
+  "cut": "guide-ts432l-cut.webp",
+  "w": 555,
+  "h": 430,
+  "note": "retailer image (ts2.store), low-res 555px, blurry; official page gone"
+ },
+ "arkon-arma-lr25": {
+  "src": "https://arkon.pro/arkon-arma-lr25.html",
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "no image url found VERIFY: og:image of product page"
+ },
+ "arkon-alfa-lt35m": {
+  "src": "https://arkon.pro/arkon-alfa-2-lt35m.html",
+  "file": "arkon-alfa-lt35m.webp",
+  "cut": "arkon-alfa-lt35m-cut.webp",
+  "w": 700,
+  "h": 700,
+  "note": "source only 700px wide (upscaled)"
+ },
+ "pulsar-krypton-2-fxg50": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-attachments/krypton-2/",
+  "file": "pulsar-krypton-2-fxg50.webp",
+  "cut": "pulsar-krypton-2-fxg50-cut.webp",
+  "w": 600,
+  "h": 526,
+  "note": "source only 600px wide (upscaled)"
+ },
+ "nocpix-mate-h50r": {
+  "src": "https://www.nocpix.com/mate-ultra/",
+  "file": "nocpix-mate-h50r.webp",
+  "cut": "nocpix-mate-h50r-cut.webp",
+  "w": 800,
+  "h": 800,
+  "note": ""
+ },
+ "pulsar-telos-lrf-xp50": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/lrf-xp50/",
+  "file": "pulsar-telos-lrf-xp50.webp",
+  "cut": "pulsar-telos-lrf-xp50-cut.webp",
+  "w": 650,
+  "h": 418,
+  "note": "source only 650px wide (upscaled)"
+ },
+ "pulsar-telos-lrf-xt50": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/lrf-xt50/",
+  "file": "pulsar-telos-lrf-xt50.webp",
+  "cut": "pulsar-telos-lrf-xt50-cut.webp",
+  "w": 650,
+  "h": 418,
+  "note": "source only 650px wide (upscaled)"
+ },
+ "pulsar-axion-2-lrf-xg35": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-monoculars/axion-2/",
+  "file": "pulsar-axion-2-lrf-xg35.webp",
+  "cut": "pulsar-axion-2-lrf-xg35-cut.webp",
+  "w": 600,
+  "h": 475,
+  "note": "source only 600px wide (upscaled)"
+ },
+ "pulsar-axion-compact-xg35": {
+  "src": "https://pulsarvision.com/products/thermal-imaging-monoculars/pulsar-axion-compact/xg35/",
+  "file": "pulsar-axion-compact-xg35.webp",
+  "cut": "pulsar-axion-compact-xg35-cut.webp",
+  "w": 600,
+  "h": 450,
+  "note": "source only 600px wide (upscaled)"
+ },
+ "nocpix-vista-h50r": {
+  "src": "https://www.nocpix.com/vista-series/",
+  "file": "nocpix-vista-h50r.webp",
+  "cut": "nocpix-vista-h50r-cut.webp",
+  "w": 600,
+  "h": 600,
+  "note": "series image titled H50R/H50/H35R/H35"
+ },
+ "guide-tj630l-lrf": {
+  "src": "https://www.optics-trade.eu/en/guide-tj630-lrf.html",
+  "file": "guide-tj630l-lrf.webp",
+  "cut": "guide-tj630l-lrf-cut.webp",
+  "w": 862,
+  "h": 802,
+  "note": "retailer (Optics Trade) copy of Guide render"
+ },
+ "arkon-nevis-ln35": {
+  "src": "https://arkon.pro/arkon-nevis-ln35.html",
+  "file": "arkon-nevis-ln35.webp",
+  "cut": "arkon-nevis-ln35-cut.webp",
+  "w": 700,
+  "h": 700,
+  "note": "source only 700px wide (upscaled)"
+ },
+ "pulsar-merger-duo-nxp50": {
+  "src": "https://pulsarvision.com/products/multispectral-devices/pulsar-merger-duo/nxp50/",
+  "file": "pulsar-merger-duo-nxp50.webp",
+  "cut": "pulsar-merger-duo-nxp50-cut.webp",
+  "w": 700,
+  "h": 436,
+  "note": "source only 700px wide (upscaled)"
+ },
+ "hikmicro-habrok-pro-hx60ls": {
+  "src": "https://www.hikmicrotech.com/en/outdoor-products/habrok-pro-multi-spectrum-binocular/",
+  "file": "hikmicro-habrok-pro-hx60ls.webp",
+  "cut": "hikmicro-habrok-pro-hx60ls-cut.webp",
+  "w": 800,
+  "h": 566,
+  "note": ""
+ },
+ "nocpix-quest-s50r": {
+  "src": "https://www.nocpix.com/quest-series/",
+  "file": "nocpix-quest-s50r.webp",
+  "cut": "nocpix-quest-s50r-cut.webp",
+  "w": 800,
+  "h": 530,
+  "note": ""
+ },
+ "pulsar-aps3": {
+  "src": "https://pulsarvision.com/products/accessories/aps-batteries/aps-3/",
+  "file": "pulsar-aps3.webp",
+  "cut": "pulsar-aps3-cut.webp",
+  "w": 606,
+  "h": 467,
+  "note": "source only 606px wide (upscaled)"
+ },
+ "pulsar-weaver-qd-mount": {
+  "src": "https://pulsarvision.com/products/accessories/rifle-mounts/weaver-usqd/",
+  "file": "pulsar-weaver-qd-mount.webp",
+  "cut": "pulsar-weaver-qd-mount-cut.webp",
+  "w": 500,
+  "h": 347,
+  "note": "source only 500px wide (upscaled) Weaver USQD chosen as QD Weaver"
+ },
+ "iray-tyke-l335": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "no 'Tyke L335' found on infirayoutdoor.com or retailers"
+ },
+ "sytong-am06-35-lrf": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "not searched (budget)"
+ },
+ "arkon-digital-pro-dp940l": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "not searched (budget)"
+ },
+ "arkon-nvd-pro-lrf": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "not searched (budget)"
+ },
+ "innomount-qd-weaver": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "not searched (budget)"
+ },
+ "nextorch-wl50ir": {
+  "src": null,
+  "file": null,
+  "cut": null,
+  "w": null,
+  "h": null,
+  "note": "not searched (budget)"
+ },
+ "brands": {
+  "nocpix": "brands/nocpix.webp",
+  "guide": "brands/guide.svg"
+ }
+}
