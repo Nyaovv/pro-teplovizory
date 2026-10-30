@@ -3,7 +3,7 @@
   'use strict';
   const PT = (window.PT = {});
   // No official photo found yet for these: keep them out of the mockup.
-  const NO_PHOTO = ['sytong-am06-35-lrf', 'innomount-qd-weaver', 'nextorch-wl50ir', 'arkon-arma-lr25'];
+  const NO_PHOTO = ['sytong-am06-35-lrf', 'innomount-qd-weaver', 'nextorch-wl50ir', 'arkon-arma-lr25', 'arkon-digital-pro-dp940l', 'arkon-nvd-pro-lrf'];
   const products = ((window.PT_DATA && window.PT_DATA.products) || []).filter((p) => !NO_PHOTO.includes(p.id));
 
   products.forEach((p, i) => {
@@ -81,7 +81,7 @@
     { id: 'monoculars', name: 'Тепловизоры', note: 'Монокуляры для наблюдения и поиска', hero: 'pulsar-telos-lrf-xp50' },
     { id: 'scopes', name: 'Тепловизионные прицелы', short: 'Прицелы', note: 'Прицелы и насадки на дневную оптику', hero: 'pulsar-thermion-2-lrf-xp50-pro' },
     { id: 'binoculars', name: 'Бинокли', note: 'Тепловизионные и мультиспектральные', hero: 'pulsar-merger-lrf-xp50' },
-    { id: 'digital', name: 'Цифровая оптика', note: 'Прицелы и бинокли день/ночь', hero: 'arkon-nvd-pro-lrf' },
+    { id: 'digital', name: 'Цифровая оптика', note: 'Прицелы и бинокли день/ночь', hero: 'hikmicro-alpex-4k' },
     { id: 'accessories', name: 'Аксессуары', note: 'Аккумуляторы, крепления, ИК-осветители', hero: 'pulsar-aps3' },
   ];
   PT.catById = Object.fromEntries(PT.CATS.map((c) => [c.id, c]));
